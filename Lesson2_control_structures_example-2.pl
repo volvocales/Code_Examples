@@ -12,6 +12,5 @@ while ($i <= 10) #Execute while $i is less than or equal to 10
 {
 	print "$i time through the loop!\n"; #Print the current $i value
 	$i++;
-	
 }
 	
